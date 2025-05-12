@@ -1,2 +1,2 @@
 # STAT8406-Final-Project
-For my regression methods final project my partner and I decided to look into what variables best predicted a players strikeout rate during the 2024 MLB Season. 
+For my regression methods final project my partner and I decided to look into what variables best predicted a players strikeout rate during the 2024 MLB Season. We used R to do our analysis and looked at a combination of simple performance stats and more advanced plate discipline stats to find an optimal model and we tested that model with random data points from the data set to compare. 
